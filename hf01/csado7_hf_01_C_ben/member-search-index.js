@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hu.ppke.itk.java.first","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"hu.ppke.itk.java.first","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

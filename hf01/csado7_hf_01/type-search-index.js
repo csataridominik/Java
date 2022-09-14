@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hu.ppke.itk.java.first","l":"Main"}];updateSearchResults();
